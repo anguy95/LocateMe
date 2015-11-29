@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LocateMe</string>
+
+    <!--FACEBOOK SDK PERMISSIONS-->
+    <string name="facebook_app_id">1549288355362455</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_contact_us">Contact Us</string>
+
+
+
+    <!--PREFERENCE TEXT-->
+    <string-array name="listArray">
+        <item>Headings</item>
+        <item>Headings and Details</item>
+        <item>All Data</item>
+    </string-array>
+    <string-array name="listValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+</resources>
