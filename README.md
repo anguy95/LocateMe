@@ -7,8 +7,8 @@
                 Intent shareIntent = new Intent();
                 shareIntent.setAction(Intent.ACTION_SEND);
                 shareIntent.setType("text/plain");
-                shareIntent.putExtra(Intent.EXTRA_TEXT, "Hello, from tutorialspoint");
-                startActivity(Intent.createChooser(shareIntent, "Share your thoughts"));
+                shareIntent.putExtra(Intent.EXTRA_TEXT, "Hello");
+                startActivity(Intent.createChooser(shareIntent, "This sharefsda"));
             }
         });
 
