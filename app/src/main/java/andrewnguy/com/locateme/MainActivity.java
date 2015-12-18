@@ -1,17 +1,50 @@
 package andrewnguy.com.locateme;
 
+import android.Manifest;
+import android.content.Context;
 import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.location.Criteria;
+import android.location.Location;
+import android.location.LocationListener;
+import android.location.LocationManager;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
+import android.widget.ImageButton;
+import android.widget.Toast;
 
+
+import com.facebook.AccessToken;
 import com.facebook.FacebookSdk;
+import com.facebook.GraphRequest;
+import com.facebook.GraphResponse;
+import com.facebook.HttpMethod;
 import com.facebook.appevents.AppEventsLogger;
+import com.facebook.login.widget.LoginButton;
+import com.facebook.share.ShareApi;
+import com.facebook.share.model.ShareContent;
+import com.facebook.share.model.ShareLinkContent;
+import com.facebook.share.widget.ShareDialog;
 
-public class MainActivity extends AppCompatActivity {
+import java.lang.reflect.Array;
+import java.util.Arrays;
+import java.util.List;
 
+
+public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+
+
+    private  ShareDialog share;
+    private ShareLinkContent content;
+    LocationManager locationManager;
+    Location location;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,12 +54,23 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        ImageButton textShare = (ImageButton) findViewById(R.id.text_button);
+        textShare.setOnClickListener(this);
 
-
-
-
-
+        ImageButton fbShare = (ImageButton) findViewById(R.id.facebook_button);
+        fbShare.setOnClickListener(this);
     }
+
+
+    public String getLatLng(){
+        locationManager = (LocationManager)getSystemService(Context.LOCATION_SERVICE);
+        location = locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
+        String longitude = String.valueOf(location.getLongitude());
+        String latitude = String.valueOf(location.getLatitude());
+        String loc = latitude + "," + longitude;
+        return loc;
+    }
+
 
 
     @Override
@@ -68,5 +112,25 @@ public class MainActivity extends AppCompatActivity {
 
         // Logs 'app deactivate' App Event.
         AppEventsLogger.deactivateApp(this);
+    }
+
+    @Override
+    public void onClick(View v) {
+        int id = v.getId();
+
+        if(id == R.id.text_button){
+            String loc = getLatLng();
+            Intent intent = new Intent(Intent.ACTION_SEND);
+            intent.setType("text/plain");
+            intent.putExtra(Intent.EXTRA_TEXT, "http://maps.google.com/?q="+ loc);
+            intent.putExtra(android.content.Intent.EXTRA_SUBJECT, "Check out this site!");
+            startActivity(Intent.createChooser(intent, "Share"));
+        }
+        else if(R.id.facebook_button == id){
+            String loc = getLatLng();
+            ShareLinkContent locLink = new ShareLinkContent.Builder().setContentTitle("My Location").setContentUrl(Uri.parse("http://maps.google.com/?q="+ loc)).build();
+            ShareDialog fbShareDialog = new ShareDialog(this);
+            fbShareDialog.show(locLink);
+        }
     }
 }

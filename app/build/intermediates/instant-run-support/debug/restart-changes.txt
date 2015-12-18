@@ -1,3 +1,1 @@
-/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/andrewnguy/com/locateme/SettingsActivity$SettingsFragment.class
-/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/andrewnguy/com/locateme/SettingsActivity.class
-/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/andrewnguy/com/locateme/SettingsActivity$1.class
+/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/andrewnguy/com/locateme/MainActivity.class

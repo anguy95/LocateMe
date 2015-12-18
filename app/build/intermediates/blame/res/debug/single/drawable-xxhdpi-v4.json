@@ -29,11 +29,11 @@
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/com_facebook_button_send_icon.png",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/drawable-xxhdpi/com_facebook_button_send_icon.png"
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/com_facebook_button_send_icon.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_bubble_large_white.png",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/drawable-xxhdpi/messenger_bubble_large_white.png"
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/messenger_bubble_large_white.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
@@ -53,7 +53,7 @@
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_bubble_large_blue.png",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/drawable-xxhdpi/messenger_bubble_large_blue.png"
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/messenger_bubble_large_blue.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
@@ -89,7 +89,7 @@
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_bubble_small_blue.png",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/drawable-xxhdpi/messenger_bubble_small_blue.png"
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/messenger_bubble_small_blue.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
@@ -125,7 +125,7 @@
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_bubble_small_white.png",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/drawable-xxhdpi/messenger_bubble_small_white.png"
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/messenger_bubble_small_white.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
@@ -157,7 +157,7 @@
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_button_send_round_shadow.png",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/drawable-xxhdpi/messenger_button_send_round_shadow.png"
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/messenger_button_send_round_shadow.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
@@ -169,7 +169,7 @@
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/drawable-xxhdpi/com_facebook_button_like_icon_selected.png"
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
@@ -177,7 +177,7 @@
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/com_facebook_button_icon.png",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/drawable-xxhdpi/com_facebook_button_icon.png"
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/com_facebook_button_icon.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png",

@@ -37,7 +37,7 @@
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/layout/messenger_button_send_white_small.xml"
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_white_small.xml"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
@@ -77,7 +77,7 @@
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/layout/messenger_button_send_white_large.xml"
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_white_large.xml"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
@@ -109,7 +109,7 @@
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/layout/messenger_button_send_blue_large.xml"
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_blue_large.xml"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
@@ -125,7 +125,7 @@
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/layout/messenger_button_send_blue_small.xml"
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_blue_small.xml"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/settings_activity.xml",
@@ -153,7 +153,7 @@
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/layout/com_facebook_tooltip_bubble.xml"
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/com_facebook_tooltip_bubble.xml"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
@@ -169,7 +169,7 @@
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/layout/com_facebook_activity_layout.xml"
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/com_facebook_activity_layout.xml"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
@@ -197,7 +197,7 @@
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/layout/messenger_button_send_blue_round.xml"
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_blue_round.xml"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
@@ -220,16 +220,16 @@
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media.xml"
     },
     {
-        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_separator.xml"
-    },
-    {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_time.xml"
     },
     {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/layout/messenger_button_send_white_round.xml"
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_white_round.xml"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
@@ -237,6 +237,6 @@
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/layout/com_facebook_login_fragment.xml"
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/com_facebook_login_fragment.xml"
     }
 ]
