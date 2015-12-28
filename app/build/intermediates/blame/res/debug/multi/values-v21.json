@@ -1641,9 +1641,72 @@
                     "startLine": 219,
                     "startColumn": 4,
                     "startOffset": 16353,
-                    "endLine": 225,
+                    "endLine": 224,
                     "endColumn": 12,
-                    "endOffset": 16701
+                    "endOffset": 16761
+                },
+                "from": {
+                    "file": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.2/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 16766,
+                    "endLine": 230,
+                    "endColumn": 12,
+                    "endOffset": 17180
+                },
+                "from": {
+                    "file": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.2/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 649,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 1063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 17185,
+                    "endLine": 233,
+                    "endColumn": 12,
+                    "endOffset": 17344
+                },
+                "from": {
+                    "file": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.2/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 17349,
+                    "endLine": 240,
+                    "endColumn": 12,
+                    "endOffset": 17697
                 },
                 "from": {
                     "file": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1659,12 +1722,12 @@
             },
             {
                 "to": {
-                    "startLine": 226,
+                    "startLine": 241,
                     "startColumn": 4,
-                    "startOffset": 16706,
-                    "endLine": 232,
+                    "startOffset": 17702,
+                    "endLine": 247,
                     "endColumn": 12,
-                    "endOffset": 17066
+                    "endOffset": 18062
                 },
                 "from": {
                     "file": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1680,12 +1743,12 @@
             },
             {
                 "to": {
-                    "startLine": 233,
+                    "startLine": 248,
                     "startColumn": 4,
-                    "startOffset": 17071,
-                    "endLine": 242,
+                    "startOffset": 18067,
+                    "endLine": 257,
                     "endColumn": 12,
-                    "endOffset": 17746
+                    "endOffset": 18742
                 },
                 "from": {
                     "file": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1701,11 +1764,11 @@
             },
             {
                 "to": {
-                    "startLine": 243,
+                    "startLine": 258,
                     "startColumn": 4,
-                    "startOffset": 17751,
+                    "startOffset": 18747,
                     "endColumn": 56,
-                    "endOffset": 17803
+                    "endOffset": 18799
                 },
                 "from": {
                     "file": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1720,11 +1783,11 @@
             },
             {
                 "to": {
-                    "startLine": 244,
+                    "startLine": 259,
                     "startColumn": 4,
-                    "startOffset": 17808,
+                    "startOffset": 18804,
                     "endColumn": 57,
-                    "endOffset": 17861
+                    "endOffset": 18857
                 },
                 "from": {
                     "file": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
@@ -1734,6 +1797,48 @@
                         "startOffset": 19790,
                         "endColumn": 57,
                         "endOffset": 19843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 18862,
+                    "endLine": 262,
+                    "endColumn": 12,
+                    "endOffset": 19026
+                },
+                "from": {
+                    "file": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 19031,
+                    "endLine": 266,
+                    "endColumn": 12,
+                    "endOffset": 19237
+                },
+                "from": {
+                    "file": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 588,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 794
                     }
                 }
             }

@@ -16,12 +16,20 @@
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tw__share_email_header.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.2/res/drawable-hdpi/tw__share_email_header.png"
+    },
+    {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tw__ic_play_pressed.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable-hdpi/tw__ic_play_pressed.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png",
@@ -34,6 +42,10 @@
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dgts__ic_success.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.2/res/drawable-hdpi/dgts__ic_success.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
@@ -50,6 +62,10 @@
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dgts__login_header.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.2/res/drawable-hdpi/dgts__login_header.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/messenger_button_send_round_shadow.png",
@@ -92,8 +108,20 @@
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/com_facebook_tooltip_black_xout.png"
     },
     {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tw__ic_inline_share.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable-hdpi/tw__ic_inline_share.png"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tw__composer_logo_blue.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.2/res/drawable-hdpi/tw__composer_logo_blue.png"
+    },
+    {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tw__composer_logo_white.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.2/res/drawable-hdpi/tw__composer_logo_white.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
@@ -108,12 +136,32 @@
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/messenger_bubble_large_white.png"
     },
     {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tw__ic_logo_white.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable-hdpi/tw__ic_logo_white.png"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tw__action_heart_off_default.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable-hdpi/tw__action_heart_off_default.png"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tw__ic_logo_blue.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable-hdpi/tw__ic_logo_blue.png"
+    },
+    {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tw__ic_retweet_light.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable-hdpi/tw__ic_retweet_light.png"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tw__ic_retweet_dark.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable-hdpi/tw__ic_retweet_dark.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_button_icon.png",
@@ -128,12 +176,20 @@
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/com_facebook_tooltip_blue_topnub.png"
     },
     {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tw__ic_tweet_verified.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable-hdpi/tw__ic_tweet_verified.png"
+    },
+    {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/messenger_bubble_small_blue.png",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tw__ic_logo_default.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.2/res/drawable-hdpi/tw__ic_logo_default.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
@@ -160,6 +216,14 @@
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tw__ic_tweet_photo_error_dark.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable-hdpi/tw__ic_tweet_photo_error_dark.png"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dgts__logo_name.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.2/res/drawable-hdpi/dgts__logo_name.png"
+    },
+    {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png"
     },
@@ -172,6 +236,14 @@
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dgts__logo.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.2/res/drawable-hdpi/dgts__logo.png"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tw__ic_tweet_photo_error_light.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable-hdpi/tw__ic_tweet_photo_error_light.png"
+    },
+    {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/com_facebook_tooltip_black_topnub.png"
     },
@@ -180,8 +252,16 @@
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dgts__addressbook_header.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.2/res/drawable-hdpi/dgts__addressbook_header.png"
+    },
+    {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tw__action_heart_on_default.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable-hdpi/tw__action_heart_on_default.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
@@ -192,12 +272,24 @@
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/com_facebook_close.png"
     },
     {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dgts__spinner_light.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.2/res/drawable-hdpi/dgts__spinner_light.png"
+    },
+    {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/messenger_bubble_small_white.png",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/messenger_bubble_small_white.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tw__ic_play_default.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable-hdpi/tw__ic_play_default.png"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dgts__spinner_dark.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.2/res/drawable-hdpi/dgts__spinner_dark.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
@@ -218,6 +310,10 @@
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tw__composer_close.png",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.2/res/drawable-hdpi/tw__composer_close.png"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png",

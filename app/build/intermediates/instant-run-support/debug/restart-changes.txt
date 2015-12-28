@@ -1,1 +1,0 @@
-/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/andrewnguy/com/locateme/MainActivity.class

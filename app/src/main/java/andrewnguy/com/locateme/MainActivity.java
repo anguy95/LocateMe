@@ -33,23 +33,42 @@ import com.facebook.share.model.ShareContent;
 import com.facebook.share.model.ShareLinkContent;
 import com.facebook.share.widget.ShareDialog;
 
+import com.twitter.sdk.android.Twitter;
+import com.twitter.sdk.android.core.TwitterAuthConfig;
+import io.fabric.sdk.android.Fabric;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.List;
 
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+import io.fabric.sdk.android.Fabric;
+import com.twitter.sdk.android.tweetcomposer.TweetComposer;
+
+public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+
+    // Note: Your consumer key and secret should be obfuscated in your source code before shipping.
+    private static final String TWITTER_KEY = "1uiglW6XwdfzIXaWOIOPR8NAR";
+    private static final String TWITTER_SECRET = "WHm0iKU72vBK7yfQmq8OBR8NSNYtRCeljLcMeqWlHoPWY02aa2";
 
 
-    private  ShareDialog share;
-    private ShareLinkContent content;
+
     LocationManager locationManager;
     Location location;
+    private ShareDialog share;
+    private ShareLinkContent content;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        //Twitter Fabric SDK Setup
+        TwitterAuthConfig authConfig = new TwitterAuthConfig(TWITTER_KEY, TWITTER_SECRET);
+        Fabric.with(this, new Twitter(authConfig));
+
+        //Facebook SDK Set
         FacebookSdk.sdkInitialize(getApplicationContext());
+
+
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
@@ -62,15 +81,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
 
-    public String getLatLng(){
-        locationManager = (LocationManager)getSystemService(Context.LOCATION_SERVICE);
+    public String getLatLng() {
+        locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
         location = locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
         String longitude = String.valueOf(location.getLongitude());
         String latitude = String.valueOf(location.getLatitude());
         String loc = latitude + "," + longitude;
         return loc;
     }
-
 
 
     @Override
@@ -118,17 +136,15 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View v) {
         int id = v.getId();
 
-        if(id == R.id.text_button){
+        if (id == R.id.text_button) {
             String loc = getLatLng();
-            Intent intent = new Intent(Intent.ACTION_SEND);
-            intent.setType("text/plain");
-            intent.putExtra(Intent.EXTRA_TEXT, "http://maps.google.com/?q="+ loc);
-            intent.putExtra(android.content.Intent.EXTRA_SUBJECT, "Check out this site!");
-            startActivity(Intent.createChooser(intent, "Share"));
-        }
-        else if(R.id.facebook_button == id){
+            Intent sendIntent = new Intent(Intent.ACTION_VIEW);
+            sendIntent.setData(Uri.parse("sms:"));
+            sendIntent.putExtra("sms_body", "http://maps.google.com/?q=" + loc);
+            startActivity(sendIntent);
+        } else if (R.id.facebook_button == id) {
             String loc = getLatLng();
-            ShareLinkContent locLink = new ShareLinkContent.Builder().setContentTitle("My Location").setContentUrl(Uri.parse("http://maps.google.com/?q="+ loc)).build();
+            ShareLinkContent locLink = new ShareLinkContent.Builder().setContentTitle("My Location").setContentUrl(Uri.parse("http://maps.google.com/?q=" + loc)).build();
             ShareDialog fbShareDialog = new ShareDialog(this);
             fbShareDialog.show(locLink);
         }

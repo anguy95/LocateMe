@@ -4,24 +4,8 @@
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_send_background.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_send_background.xml"
-    },
-    {
-        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/tw__share_action.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable/tw__share_action.xml"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
@@ -40,16 +24,104 @@
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/tw__bg_tweet_compact.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable/tw__bg_tweet_compact.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/tw__bg_tweet.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable/tw__bg_tweet.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/tw__login_btn_disabled.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.2/res/drawable/tw__login_btn_disabled.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/progress_light.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.2/res/drawable/progress_light.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_selector.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/tw__like_action.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable/tw__like_action.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/tw__login_btn_text_color_light.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.2/res/drawable/tw__login_btn_text_color_light.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/dgts__digits_btn.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.2/res/drawable/dgts__digits_btn.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_send_background.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/progress_dark.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.2/res/drawable/progress_dark.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/dgts__digits_btn_default.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.2/res/drawable/dgts__digits_btn_default.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/tw__login_btn_pressed.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.2/res/drawable/tw__login_btn_pressed.xml"
+    },
+    {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_round.xml",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_white_bg_round.xml"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_background.xml",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_background.xml"
-    },
-    {
-        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
@@ -64,28 +136,32 @@
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
     },
     {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/tw__login_btn_pressed_light.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.2/res/drawable/tw__login_btn_pressed_light.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/tw__install_button_border.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.2/res/drawable/tw__install_button_border.xml"
+    },
+    {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_selector.xml",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/tw__app_info_layout_border.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.2/res/drawable/tw__app_info_layout_border.xml"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_silver_background.xml",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_login_silver_background.xml"
     },
     {
-        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/tw__login_btn_light.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.2/res/drawable/tw__login_btn_light.xml"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_like_background.xml",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_like_background.xml"
-    },
-    {
-        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_selector.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_white_bg_selector.xml"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
@@ -108,12 +184,24 @@
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/tw__login_btn_default.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.2/res/drawable/tw__login_btn_default.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/tw__player_overlay.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable/tw__player_overlay.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/dgts__digits_btn_pressed.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.2/res/drawable/dgts__digits_btn_pressed.xml"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/tw__login_btn.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.2/res/drawable/tw__login_btn.xml"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
@@ -124,19 +212,19 @@
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/src/main/res/drawable/side_nav_bar.xml"
     },
     {
-        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/tw__transparent.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.2/res/drawable/tw__transparent.xml"
     },
     {
-        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/tw__login_btn_default_light.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.2/res/drawable/tw__login_btn_default_light.xml"
     },
     {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable/tw__btn_composer_tweet.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.2/res/drawable/tw__btn_composer_tweet.xml"
     }
 ]

@@ -4,6 +4,10 @@
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
     },
     {
+        "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-v21/tw__like_action.xml",
+        "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.8.0/res/drawable-v21/tw__like_action.xml"
+    },
+    {
         "merged": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
         "source": "/Users/anguy95/Dropbox/Development/Android/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v21/abc_btn_colored_material.xml"
     },
