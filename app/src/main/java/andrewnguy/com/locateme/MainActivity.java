@@ -78,6 +78,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         ImageButton fbShare = (ImageButton) findViewById(R.id.facebook_button);
         fbShare.setOnClickListener(this);
+
+        ImageButton twShare = (ImageButton) findViewById(R.id.twitter_button);
+        twShare.setOnClickListener(this);
     }
 
 
@@ -147,6 +150,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             ShareLinkContent locLink = new ShareLinkContent.Builder().setContentTitle("My Location").setContentUrl(Uri.parse("http://maps.google.com/?q=" + loc)).build();
             ShareDialog fbShareDialog = new ShareDialog(this);
             fbShareDialog.show(locLink);
+        }else if(id == R.id.twitter_button){
+            TweetComposer.Builder builder = new TweetComposer.Builder(this)
+                    .text("just setting up my Fabric.");
+            builder.show();
         }
     }
 }
