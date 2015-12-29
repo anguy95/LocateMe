@@ -14,7 +14,11 @@ import com.facebook.FacebookException;
 import com.facebook.FacebookSdk;
 import com.facebook.login.LoginResult;
 import com.facebook.login.widget.LoginButton;
-
+import com.twitter.sdk.android.core.Callback;
+import com.twitter.sdk.android.core.Result;
+import com.twitter.sdk.android.core.TwitterException;
+import com.twitter.sdk.android.core.TwitterSession;
+import com.twitter.sdk.android.core.identity.TwitterLoginButton;
 
 
 /**
@@ -26,6 +30,7 @@ import com.facebook.login.widget.LoginButton;
 public class SettingsActivity extends AppCompatActivity implements FacebookCallback{
     LoginButton loginBtn;
     CallbackManager callbackManager;
+    TwitterLoginButton twitterLoginButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -57,6 +62,22 @@ public class SettingsActivity extends AppCompatActivity implements FacebookCallb
         callbackManager = CallbackManager.Factory.create();
         loginBtn.registerCallback(callbackManager, this);
 
+
+        twitterLoginButton = (TwitterLoginButton) findViewById(R.id.twitter_login_button);
+        twitterLoginButton.setCallback(new Callback<TwitterSession>() {
+            @Override
+            public void success(Result<TwitterSession> result) {
+                Toast.makeText(SettingsActivity.this, result.data.getUserName(), Toast.LENGTH_LONG ).show();
+            }
+
+            @Override
+            public void failure(TwitterException e) {
+                Toast.makeText(SettingsActivity.this, "Incorrect Login, Please try again.", Toast.LENGTH_LONG).show();
+            }
+        });
+
+
+
     }
 
     @Override
@@ -84,6 +105,9 @@ public class SettingsActivity extends AppCompatActivity implements FacebookCallb
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         callbackManager.onActivityResult(requestCode,resultCode, data);
+        twitterLoginButton.onActivityResult(requestCode, resultCode, data);
+
+
     }
 
 

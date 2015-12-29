@@ -42,6 +42,10 @@ import java.util.List;
 
 
 import io.fabric.sdk.android.Fabric;
+
+import com.twitter.sdk.android.core.TwitterCore;
+import com.twitter.sdk.android.core.TwitterSession;
+import com.twitter.sdk.android.tweetcomposer.ComposerActivity;
 import com.twitter.sdk.android.tweetcomposer.TweetComposer;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
@@ -154,6 +158,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             TweetComposer.Builder builder = new TweetComposer.Builder(this)
                     .text("just setting up my Fabric.");
             builder.show();
+
+//            final TwitterSession session = TwitterCore.getInstance().getSessionManager()
+//                    .getActiveSession();
+//            final Intent intent = new ComposerActivity.Builder(MainActivity.this)
+//                    .session(session)
+//                    .createIntent();
+//            startActivity(intent);
+
         }
     }
 }
